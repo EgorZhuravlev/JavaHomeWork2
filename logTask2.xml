@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-02T20:06:54</date>
+  <millis>1680455214034</millis>
+  <sequence>0</sequence>
+  <logger>Exercise4</logger>
+  <level>INFO</level>
+  <class>Exercise4</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Sort Array</message>
+</record>
+</log>
